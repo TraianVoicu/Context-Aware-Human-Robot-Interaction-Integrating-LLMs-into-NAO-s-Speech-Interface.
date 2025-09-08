@@ -1,0 +1,500 @@
+{"instruction": "clap your hands", "output": "robot.clap()"}
+{"instruction": "clap and bow", "output": "robot.clap(); robot.bow()"}
+{"instruction": "nod your head", "output": "robot.nod()"}
+{"instruction": "turn your head left", "output": "robot.turnHeadLeft()"}
+{"instruction": "spin around", "output": "robot.spin()"}
+{"instruction": "bend your left arm", "output": "robot.bendLeftArm()"}
+{"instruction": "shake hands", "output": "robot.shakeHands()"}
+{"instruction": "clap three times", "output": "robot.clap(times=3)"}
+{"instruction": "point left", "output": "robot.pointLeft()"}
+{"instruction": "turn 90 degrees left", "output": "robot.turnLeft(degrees=90)"}
+{"instruction": "rotate right arm", "output": "robot.rotateRightArm()"}
+{"instruction": "bend your left arm", "output": "robot.bendLeftArm()"}
+{"instruction": "turn 90 degrees right", "output": "robot.turnRight(degrees=90)"}
+{"instruction": "look up", "output": "robot.lookUp()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "clap your hands", "output": "robot.clap()"}
+{"instruction": "wave and say hello", "output": "robot.wave(); robot.sayHello()"}
+{"instruction": "point left", "output": "robot.pointLeft()"}
+{"instruction": "raise your left arm", "output": "robot.raiseLeftArm()"}
+{"instruction": "rotate left arm", "output": "robot.rotateLeftArm()"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "nod your head", "output": "robot.nod()"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "turn your head right", "output": "robot.turnHeadRight()"}
+{"instruction": "stomp with right foot", "output": "robot.stompRight()"}
+{"instruction": "turn your head left", "output": "robot.turnHeadLeft()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "turn your head left", "output": "robot.turnHeadLeft()"}
+{"instruction": "say goodbye", "output": "robot.sayGoodbye()"}
+{"instruction": "point right", "output": "robot.pointRight()"}
+{"instruction": "center your head", "output": "robot.centerHead()"}
+{"instruction": "tilt head right", "output": "robot.tiltHeadRight()"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "turn your head right", "output": "robot.turnHeadRight()"}
+{"instruction": "raise your right arm", "output": "robot.raiseRightArm()"}
+{"instruction": "bend your left arm", "output": "robot.bendLeftArm()"}
+{"instruction": "point forward", "output": "robot.pointForward()"}
+{"instruction": "turn 90 degrees left", "output": "robot.turnLeft(degrees=90)"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "shake your head", "output": "robot.shakeHead()"}
+{"instruction": "crouch down", "output": "robot.crouch()"}
+{"instruction": "lower your right arm", "output": "robot.lowerRightArm()"}
+{"instruction": "raise your right arm", "output": "robot.raiseRightArm()"}
+{"instruction": "dance", "output": "robot.dance()"}
+{"instruction": "lift left leg", "output": "robot.liftLeftLeg()"}
+{"instruction": "rotate right arm", "output": "robot.rotateRightArm()"}
+{"instruction": "walk backward 3 steps", "output": "robot.walkBackward(steps=3)"}
+{"instruction": "walk backward 3 steps", "output": "robot.walkBackward(steps=3)"}
+{"instruction": "turn your head right", "output": "robot.turnHeadRight()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "turn your head left", "output": "robot.turnHeadLeft()"}
+{"instruction": "tilt head right", "output": "robot.tiltHeadRight()"}
+{"instruction": "spin around", "output": "robot.spin()"}
+{"instruction": "sit down and rest", "output": "robot.sit(); robot.rest()"}
+{"instruction": "wave and say hello", "output": "robot.wave(); robot.sayHello()"}
+{"instruction": "wave and say hello", "output": "robot.wave(); robot.sayHello()"}
+{"instruction": "look up", "output": "robot.lookUp()"}
+{"instruction": "spin around", "output": "robot.spin()"}
+{"instruction": "clap your hands", "output": "robot.clap()"}
+{"instruction": "point forward", "output": "robot.pointForward()"}
+{"instruction": "bend your left arm", "output": "robot.bendLeftArm()"}
+{"instruction": "nod your head", "output": "robot.nod()"}
+{"instruction": "rotate right arm", "output": "robot.rotateRightArm()"}
+{"instruction": "point left", "output": "robot.pointLeft()"}
+{"instruction": "stand up", "output": "robot.stand()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "point forward", "output": "robot.pointForward()"}
+{"instruction": "dance", "output": "robot.dance()"}
+{"instruction": "stand up and wave", "output": "robot.stand(); robot.wave()"}
+{"instruction": "tilt head right", "output": "robot.tiltHeadRight()"}
+{"instruction": "bow", "output": "robot.bow()"}
+{"instruction": "step forward", "output": "robot.stepForward()"}
+{"instruction": "clap your hands", "output": "robot.clap()"}
+{"instruction": "kick with left leg", "output": "robot.kickLeftLeg()"}
+{"instruction": "sit down and rest", "output": "robot.sit(); robot.rest()"}
+{"instruction": "crouch down", "output": "robot.crouch()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "step forward", "output": "robot.stepForward()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "kick with left leg", "output": "robot.kickLeftLeg()"}
+{"instruction": "lift left leg", "output": "robot.liftLeftLeg()"}
+{"instruction": "look down", "output": "robot.lookDown()"}
+{"instruction": "nod your head", "output": "robot.nod()"}
+{"instruction": "point forward", "output": "robot.pointForward()"}
+{"instruction": "say goodbye", "output": "robot.sayGoodbye()"}
+{"instruction": "kick with left leg", "output": "robot.kickLeftLeg()"}
+{"instruction": "look down", "output": "robot.lookDown()"}
+{"instruction": "clap three times", "output": "robot.clap(times=3)"}
+{"instruction": "center your head", "output": "robot.centerHead()"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "lower your right arm", "output": "robot.lowerRightArm()"}
+{"instruction": "crouch down", "output": "robot.crouch()"}
+{"instruction": "kick with right leg", "output": "robot.kickRightLeg()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "wave and say hello", "output": "robot.wave(); robot.sayHello()"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "rotate left arm", "output": "robot.rotateLeftArm()"}
+{"instruction": "bend your right arm", "output": "robot.bendRightArm()"}
+{"instruction": "point forward", "output": "robot.pointForward()"}
+{"instruction": "clap and bow", "output": "robot.clap(); robot.bow()"}
+{"instruction": "bend your right arm", "output": "robot.bendRightArm()"}
+{"instruction": "crouch down", "output": "robot.crouch()"}
+{"instruction": "look down", "output": "robot.lookDown()"}
+{"instruction": "tilt head right", "output": "robot.tiltHeadRight()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "lower your left arm", "output": "robot.lowerLeftArm()"}
+{"instruction": "scan the room", "output": "robot.scanRoom()"}
+{"instruction": "stand up", "output": "robot.stand()"}
+{"instruction": "turn 90 degrees left", "output": "robot.turnLeft(degrees=90)"}
+{"instruction": "bend your left arm", "output": "robot.bendLeftArm()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "sit down", "output": "robot.sit()"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "bend your left arm", "output": "robot.bendLeftArm()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "tilt head right", "output": "robot.tiltHeadRight()"}
+{"instruction": "point right", "output": "robot.pointRight()"}
+{"instruction": "say hello", "output": "robot.sayHello()"}
+{"instruction": "turn 90 degrees right", "output": "robot.turnRight(degrees=90)"}
+{"instruction": "walk backward 3 steps", "output": "robot.walkBackward(steps=3)"}
+{"instruction": "step forward", "output": "robot.stepForward()"}
+{"instruction": "rotate left arm", "output": "robot.rotateLeftArm()"}
+{"instruction": "walk forward and wave", "output": "robot.walkForward(); robot.wave()"}
+{"instruction": "scan the room", "output": "robot.scanRoom()"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "clap three times", "output": "robot.clap(times=3)"}
+{"instruction": "clap three times", "output": "robot.clap(times=3)"}
+{"instruction": "stand up and wave", "output": "robot.stand(); robot.wave()"}
+{"instruction": "rotate right arm", "output": "robot.rotateRightArm()"}
+{"instruction": "clap and bow", "output": "robot.clap(); robot.bow()"}
+{"instruction": "point right", "output": "robot.pointRight()"}
+{"instruction": "rotate left arm", "output": "robot.rotateLeftArm()"}
+{"instruction": "point right", "output": "robot.pointRight()"}
+{"instruction": "clap and bow", "output": "robot.clap(); robot.bow()"}
+{"instruction": "turn 90 degrees right", "output": "robot.turnRight(degrees=90)"}
+{"instruction": "lower your right arm", "output": "robot.lowerRightArm()"}
+{"instruction": "wave and say hello", "output": "robot.wave(); robot.sayHello()"}
+{"instruction": "step forward", "output": "robot.stepForward()"}
+{"instruction": "look down", "output": "robot.lookDown()"}
+{"instruction": "center your head", "output": "robot.centerHead()"}
+{"instruction": "shake hands", "output": "robot.shakeHands()"}
+{"instruction": "turn your head left", "output": "robot.turnHeadLeft()"}
+{"instruction": "stand up and wave", "output": "robot.stand(); robot.wave()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "wave hello", "output": "robot.wave()"}
+{"instruction": "dance", "output": "robot.dance()"}
+{"instruction": "rotate right arm", "output": "robot.rotateRightArm()"}
+{"instruction": "lower your right arm", "output": "robot.lowerRightArm()"}
+{"instruction": "clap three times", "output": "robot.clap(times=3)"}
+{"instruction": "sit down", "output": "robot.sit()"}
+{"instruction": "wave hello", "output": "robot.wave()"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "say goodbye", "output": "robot.sayGoodbye()"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "clap three times", "output": "robot.clap(times=3)"}
+{"instruction": "clap and bow", "output": "robot.clap(); robot.bow()"}
+{"instruction": "raise your right arm", "output": "robot.raiseRightArm()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "raise your right arm", "output": "robot.raiseRightArm()"}
+{"instruction": "turn your head right", "output": "robot.turnHeadRight()"}
+{"instruction": "rotate right arm", "output": "robot.rotateRightArm()"}
+{"instruction": "bow", "output": "robot.bow()"}
+{"instruction": "spin around", "output": "robot.spin()"}
+{"instruction": "point left", "output": "robot.pointLeft()"}
+{"instruction": "wave and say hello", "output": "robot.wave(); robot.sayHello()"}
+{"instruction": "bend your left arm", "output": "robot.bendLeftArm()"}
+{"instruction": "bow", "output": "robot.bow()"}
+{"instruction": "dance", "output": "robot.dance()"}
+{"instruction": "clap your hands", "output": "robot.clap()"}
+{"instruction": "lift left leg", "output": "robot.liftLeftLeg()"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "stomp with right foot", "output": "robot.stompRight()"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "raise your left arm", "output": "robot.raiseLeftArm()"}
+{"instruction": "scan the room", "output": "robot.scanRoom()"}
+{"instruction": "rotate right arm", "output": "robot.rotateRightArm()"}
+{"instruction": "turn 90 degrees left", "output": "robot.turnLeft(degrees=90)"}
+{"instruction": "tilt head right", "output": "robot.tiltHeadRight()"}
+{"instruction": "raise your left arm", "output": "robot.raiseLeftArm()"}
+{"instruction": "bow", "output": "robot.bow()"}
+{"instruction": "clap your hands", "output": "robot.clap()"}
+{"instruction": "lower your left arm", "output": "robot.lowerLeftArm()"}
+{"instruction": "crouch down", "output": "robot.crouch()"}
+{"instruction": "turn your head left", "output": "robot.turnHeadLeft()"}
+{"instruction": "turn your head right", "output": "robot.turnHeadRight()"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "rotate left arm", "output": "robot.rotateLeftArm()"}
+{"instruction": "clap your hands", "output": "robot.clap()"}
+{"instruction": "dance", "output": "robot.dance()"}
+{"instruction": "shake your head", "output": "robot.shakeHead()"}
+{"instruction": "raise your right arm", "output": "robot.raiseRightArm()"}
+{"instruction": "say hello", "output": "robot.sayHello()"}
+{"instruction": "turn 90 degrees right", "output": "robot.turnRight(degrees=90)"}
+{"instruction": "bend your right arm", "output": "robot.bendRightArm()"}
+{"instruction": "lower your right arm", "output": "robot.lowerRightArm()"}
+{"instruction": "nod your head", "output": "robot.nod()"}
+{"instruction": "stand up", "output": "robot.stand()"}
+{"instruction": "shake hands", "output": "robot.shakeHands()"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "bow", "output": "robot.bow()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "lift left leg", "output": "robot.liftLeftLeg()"}
+{"instruction": "clap three times", "output": "robot.clap(times=3)"}
+{"instruction": "step forward", "output": "robot.stepForward()"}
+{"instruction": "say goodbye", "output": "robot.sayGoodbye()"}
+{"instruction": "sit down", "output": "robot.sit()"}
+{"instruction": "spin around", "output": "robot.spin()"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "look up", "output": "robot.lookUp()"}
+{"instruction": "kick with right leg", "output": "robot.kickRightLeg()"}
+{"instruction": "wave hello", "output": "robot.wave()"}
+{"instruction": "bend your right arm", "output": "robot.bendRightArm()"}
+{"instruction": "spin around", "output": "robot.spin()"}
+{"instruction": "clap your hands", "output": "robot.clap()"}
+{"instruction": "spin around", "output": "robot.spin()"}
+{"instruction": "turn 90 degrees left", "output": "robot.turnLeft(degrees=90)"}
+{"instruction": "shake your head", "output": "robot.shakeHead()"}
+{"instruction": "crouch down", "output": "robot.crouch()"}
+{"instruction": "spin around", "output": "robot.spin()"}
+{"instruction": "turn your head right", "output": "robot.turnHeadRight()"}
+{"instruction": "lift left leg", "output": "robot.liftLeftLeg()"}
+{"instruction": "spin around", "output": "robot.spin()"}
+{"instruction": "say hello", "output": "robot.sayHello()"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "step forward", "output": "robot.stepForward()"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "turn 90 degrees right", "output": "robot.turnRight(degrees=90)"}
+{"instruction": "say hello", "output": "robot.sayHello()"}
+{"instruction": "sit down", "output": "robot.sit()"}
+{"instruction": "crouch down", "output": "robot.crouch()"}
+{"instruction": "wave and say hello", "output": "robot.wave(); robot.sayHello()"}
+{"instruction": "point left", "output": "robot.pointLeft()"}
+{"instruction": "dance", "output": "robot.dance()"}
+{"instruction": "turn your head left", "output": "robot.turnHeadLeft()"}
+{"instruction": "sit down", "output": "robot.sit()"}
+{"instruction": "say goodbye", "output": "robot.sayGoodbye()"}
+{"instruction": "walk forward and wave", "output": "robot.walkForward(); robot.wave()"}
+{"instruction": "wave and say hello", "output": "robot.wave(); robot.sayHello()"}
+{"instruction": "clap and bow", "output": "robot.clap(); robot.bow()"}
+{"instruction": "clap and bow", "output": "robot.clap(); robot.bow()"}
+{"instruction": "bend your left arm", "output": "robot.bendLeftArm()"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "rotate right arm", "output": "robot.rotateRightArm()"}
+{"instruction": "turn your head left", "output": "robot.turnHeadLeft()"}
+{"instruction": "bow", "output": "robot.bow()"}
+{"instruction": "tilt head right", "output": "robot.tiltHeadRight()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "rotate right arm", "output": "robot.rotateRightArm()"}
+{"instruction": "shake your head", "output": "robot.shakeHead()"}
+{"instruction": "rotate left arm", "output": "robot.rotateLeftArm()"}
+{"instruction": "crouch down", "output": "robot.crouch()"}
+{"instruction": "point forward", "output": "robot.pointForward()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "rotate left arm", "output": "robot.rotateLeftArm()"}
+{"instruction": "bow", "output": "robot.bow()"}
+{"instruction": "say hello", "output": "robot.sayHello()"}
+{"instruction": "wave and say hello", "output": "robot.wave(); robot.sayHello()"}
+{"instruction": "spin around", "output": "robot.spin()"}
+{"instruction": "center your head", "output": "robot.centerHead()"}
+{"instruction": "center your head", "output": "robot.centerHead()"}
+{"instruction": "rotate right arm", "output": "robot.rotateRightArm()"}
+{"instruction": "stand up and wave", "output": "robot.stand(); robot.wave()"}
+{"instruction": "turn 90 degrees right", "output": "robot.turnRight(degrees=90)"}
+{"instruction": "spin around", "output": "robot.spin()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "clap your hands", "output": "robot.clap()"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "stomp with right foot", "output": "robot.stompRight()"}
+{"instruction": "walk forward and wave", "output": "robot.walkForward(); robot.wave()"}
+{"instruction": "clap three times", "output": "robot.clap(times=3)"}
+{"instruction": "wave hello", "output": "robot.wave()"}
+{"instruction": "scan the room", "output": "robot.scanRoom()"}
+{"instruction": "rotate left arm", "output": "robot.rotateLeftArm()"}
+{"instruction": "stand up", "output": "robot.stand()"}
+{"instruction": "raise your right arm", "output": "robot.raiseRightArm()"}
+{"instruction": "raise your left arm", "output": "robot.raiseLeftArm()"}
+{"instruction": "lift left leg", "output": "robot.liftLeftLeg()"}
+{"instruction": "kick with right leg", "output": "robot.kickRightLeg()"}
+{"instruction": "clap your hands", "output": "robot.clap()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "look down", "output": "robot.lookDown()"}
+{"instruction": "lower your left arm", "output": "robot.lowerLeftArm()"}
+{"instruction": "tilt head right", "output": "robot.tiltHeadRight()"}
+{"instruction": "tilt head right", "output": "robot.tiltHeadRight()"}
+{"instruction": "step forward", "output": "robot.stepForward()"}
+{"instruction": "center your head", "output": "robot.centerHead()"}
+{"instruction": "kick with left leg", "output": "robot.kickLeftLeg()"}
+{"instruction": "look up", "output": "robot.lookUp()"}
+{"instruction": "raise your right arm", "output": "robot.raiseRightArm()"}
+{"instruction": "rotate right arm", "output": "robot.rotateRightArm()"}
+{"instruction": "dance", "output": "robot.dance()"}
+{"instruction": "look up", "output": "robot.lookUp()"}
+{"instruction": "rotate left arm", "output": "robot.rotateLeftArm()"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "stomp with right foot", "output": "robot.stompRight()"}
+{"instruction": "look up", "output": "robot.lookUp()"}
+{"instruction": "turn your head left", "output": "robot.turnHeadLeft()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "turn your head right", "output": "robot.turnHeadRight()"}
+{"instruction": "shake hands", "output": "robot.shakeHands()"}
+{"instruction": "wave and say hello", "output": "robot.wave(); robot.sayHello()"}
+{"instruction": "clap and bow", "output": "robot.clap(); robot.bow()"}
+{"instruction": "look up", "output": "robot.lookUp()"}
+{"instruction": "look down", "output": "robot.lookDown()"}
+{"instruction": "turn your head right", "output": "robot.turnHeadRight()"}
+{"instruction": "walk backward 3 steps", "output": "robot.walkBackward(steps=3)"}
+{"instruction": "wave hello", "output": "robot.wave()"}
+{"instruction": "bend your right arm", "output": "robot.bendRightArm()"}
+{"instruction": "wave hello", "output": "robot.wave()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "lift left leg", "output": "robot.liftLeftLeg()"}
+{"instruction": "raise your left arm", "output": "robot.raiseLeftArm()"}
+{"instruction": "lower your left arm", "output": "robot.lowerLeftArm()"}
+{"instruction": "look down", "output": "robot.lookDown()"}
+{"instruction": "dance", "output": "robot.dance()"}
+{"instruction": "point left", "output": "robot.pointLeft()"}
+{"instruction": "turn your head right", "output": "robot.turnHeadRight()"}
+{"instruction": "turn 90 degrees right", "output": "robot.turnRight(degrees=90)"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "lower your left arm", "output": "robot.lowerLeftArm()"}
+{"instruction": "stomp with right foot", "output": "robot.stompRight()"}
+{"instruction": "center your head", "output": "robot.centerHead()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "sit down", "output": "robot.sit()"}
+{"instruction": "point forward", "output": "robot.pointForward()"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "kick with left leg", "output": "robot.kickLeftLeg()"}
+{"instruction": "crouch down", "output": "robot.crouch()"}
+{"instruction": "say goodbye", "output": "robot.sayGoodbye()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "rotate left arm", "output": "robot.rotateLeftArm()"}
+{"instruction": "turn your head right", "output": "robot.turnHeadRight()"}
+{"instruction": "lift left leg", "output": "robot.liftLeftLeg()"}
+{"instruction": "raise your right arm", "output": "robot.raiseRightArm()"}
+{"instruction": "say goodbye", "output": "robot.sayGoodbye()"}
+{"instruction": "bend your right arm", "output": "robot.bendRightArm()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "look up", "output": "robot.lookUp()"}
+{"instruction": "rotate left arm", "output": "robot.rotateLeftArm()"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "look up", "output": "robot.lookUp()"}
+{"instruction": "raise your left arm", "output": "robot.raiseLeftArm()"}
+{"instruction": "spin around", "output": "robot.spin()"}
+{"instruction": "look down", "output": "robot.lookDown()"}
+{"instruction": "kick with right leg", "output": "robot.kickRightLeg()"}
+{"instruction": "sit down and rest", "output": "robot.sit(); robot.rest()"}
+{"instruction": "lower your right arm", "output": "robot.lowerRightArm()"}
+{"instruction": "kick with right leg", "output": "robot.kickRightLeg()"}
+{"instruction": "tilt head right", "output": "robot.tiltHeadRight()"}
+{"instruction": "point left", "output": "robot.pointLeft()"}
+{"instruction": "point forward", "output": "robot.pointForward()"}
+{"instruction": "stand up and wave", "output": "robot.stand(); robot.wave()"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "stand up", "output": "robot.stand()"}
+{"instruction": "nod your head", "output": "robot.nod()"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "shake hands", "output": "robot.shakeHands()"}
+{"instruction": "stomp with right foot", "output": "robot.stompRight()"}
+{"instruction": "look down", "output": "robot.lookDown()"}
+{"instruction": "scan the room", "output": "robot.scanRoom()"}
+{"instruction": "say hello", "output": "robot.sayHello()"}
+{"instruction": "point left", "output": "robot.pointLeft()"}
+{"instruction": "stand up and wave", "output": "robot.stand(); robot.wave()"}
+{"instruction": "scan the room", "output": "robot.scanRoom()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "crouch down", "output": "robot.crouch()"}
+{"instruction": "scan the room", "output": "robot.scanRoom()"}
+{"instruction": "stand up and wave", "output": "robot.stand(); robot.wave()"}
+{"instruction": "raise your left arm", "output": "robot.raiseLeftArm()"}
+{"instruction": "turn 90 degrees left", "output": "robot.turnLeft(degrees=90)"}
+{"instruction": "turn your head left", "output": "robot.turnHeadLeft()"}
+{"instruction": "kick with right leg", "output": "robot.kickRightLeg()"}
+{"instruction": "rotate left arm", "output": "robot.rotateLeftArm()"}
+{"instruction": "turn your head left", "output": "robot.turnHeadLeft()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "kick with right leg", "output": "robot.kickRightLeg()"}
+{"instruction": "clap three times", "output": "robot.clap(times=3)"}
+{"instruction": "sit down and rest", "output": "robot.sit(); robot.rest()"}
+{"instruction": "sit down and rest", "output": "robot.sit(); robot.rest()"}
+{"instruction": "stomp with right foot", "output": "robot.stompRight()"}
+{"instruction": "say hello", "output": "robot.sayHello()"}
+{"instruction": "point left", "output": "robot.pointLeft()"}
+{"instruction": "lower your right arm", "output": "robot.lowerRightArm()"}
+{"instruction": "center your head", "output": "robot.centerHead()"}
+{"instruction": "lower your left arm", "output": "robot.lowerLeftArm()"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "kick with right leg", "output": "robot.kickRightLeg()"}
+{"instruction": "stand up and wave", "output": "robot.stand(); robot.wave()"}
+{"instruction": "lower your right arm", "output": "robot.lowerRightArm()"}
+{"instruction": "clap three times", "output": "robot.clap(times=3)"}
+{"instruction": "turn your head left", "output": "robot.turnHeadLeft()"}
+{"instruction": "sit down", "output": "robot.sit()"}
+{"instruction": "point left", "output": "robot.pointLeft()"}
+{"instruction": "say goodbye", "output": "robot.sayGoodbye()"}
+{"instruction": "wave and say hello", "output": "robot.wave(); robot.sayHello()"}
+{"instruction": "point forward", "output": "robot.pointForward()"}
+{"instruction": "turn 90 degrees left", "output": "robot.turnLeft(degrees=90)"}
+{"instruction": "lower your left arm", "output": "robot.lowerLeftArm()"}
+{"instruction": "shake your head", "output": "robot.shakeHead()"}
+{"instruction": "lift left leg", "output": "robot.liftLeftLeg()"}
+{"instruction": "look up", "output": "robot.lookUp()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "dance", "output": "robot.dance()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "bend your right arm", "output": "robot.bendRightArm()"}
+{"instruction": "turn your head right", "output": "robot.turnHeadRight()"}
+{"instruction": "nod your head", "output": "robot.nod()"}
+{"instruction": "nod your head", "output": "robot.nod()"}
+{"instruction": "point left", "output": "robot.pointLeft()"}
+{"instruction": "step backward", "output": "robot.stepBackward()"}
+{"instruction": "turn 90 degrees right", "output": "robot.turnRight(degrees=90)"}
+{"instruction": "point left", "output": "robot.pointLeft()"}
+{"instruction": "nod your head", "output": "robot.nod()"}
+{"instruction": "shake your head", "output": "robot.shakeHead()"}
+{"instruction": "look up", "output": "robot.lookUp()"}
+{"instruction": "step forward", "output": "robot.stepForward()"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "turn 90 degrees left", "output": "robot.turnLeft(degrees=90)"}
+{"instruction": "stand up", "output": "robot.stand()"}
+{"instruction": "stomp with right foot", "output": "robot.stompRight()"}
+{"instruction": "bend your right arm", "output": "robot.bendRightArm()"}
+{"instruction": "bend your right arm", "output": "robot.bendRightArm()"}
+{"instruction": "bow", "output": "robot.bow()"}
+{"instruction": "bend your left arm", "output": "robot.bendLeftArm()"}
+{"instruction": "walk backward 3 steps", "output": "robot.walkBackward(steps=3)"}
+{"instruction": "bow", "output": "robot.bow()"}
+{"instruction": "look up", "output": "robot.lookUp()"}
+{"instruction": "center your head", "output": "robot.centerHead()"}
+{"instruction": "kick with right leg", "output": "robot.kickRightLeg()"}
+{"instruction": "clap and bow", "output": "robot.clap(); robot.bow()"}
+{"instruction": "say goodbye", "output": "robot.sayGoodbye()"}
+{"instruction": "wave hello", "output": "robot.wave()"}
+{"instruction": "point right", "output": "robot.pointRight()"}
+{"instruction": "raise your left arm", "output": "robot.raiseLeftArm()"}
+{"instruction": "bend your right arm", "output": "robot.bendRightArm()"}
+{"instruction": "turn 90 degrees right", "output": "robot.turnRight(degrees=90)"}
+{"instruction": "tilt head right", "output": "robot.tiltHeadRight()"}
+{"instruction": "kick with left leg", "output": "robot.kickLeftLeg()"}
+{"instruction": "raise your left arm", "output": "robot.raiseLeftArm()"}
+{"instruction": "kick with left leg", "output": "robot.kickLeftLeg()"}
+{"instruction": "walk forward and wave", "output": "robot.walkForward(); robot.wave()"}
+{"instruction": "turn your head right", "output": "robot.turnHeadRight()"}
+{"instruction": "turn your head right", "output": "robot.turnHeadRight()"}
+{"instruction": "bow", "output": "robot.bow()"}
+{"instruction": "shake hands", "output": "robot.shakeHands()"}
+{"instruction": "bend your right arm", "output": "robot.bendRightArm()"}
+{"instruction": "rotate left arm", "output": "robot.rotateLeftArm()"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "turn your head left", "output": "robot.turnHeadLeft()"}
+{"instruction": "point right", "output": "robot.pointRight()"}
+{"instruction": "point left", "output": "robot.pointLeft()"}
+{"instruction": "bend your left arm", "output": "robot.bendLeftArm()"}
+{"instruction": "stand up", "output": "robot.stand()"}
+{"instruction": "lower your left arm", "output": "robot.lowerLeftArm()"}
+{"instruction": "say goodbye", "output": "robot.sayGoodbye()"}
+{"instruction": "bend your left arm", "output": "robot.bendLeftArm()"}
+{"instruction": "bend your right arm", "output": "robot.bendRightArm()"}
+{"instruction": "lower your left arm", "output": "robot.lowerLeftArm()"}
+{"instruction": "look down", "output": "robot.lookDown()"}
+{"instruction": "raise your right arm", "output": "robot.raiseRightArm()"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "lower your right arm", "output": "robot.lowerRightArm()"}
+{"instruction": "point right", "output": "robot.pointRight()"}
+{"instruction": "clap three times", "output": "robot.clap(times=3)"}
+{"instruction": "look up", "output": "robot.lookUp()"}
+{"instruction": "lift left leg", "output": "robot.liftLeftLeg()"}
+{"instruction": "bend your left arm", "output": "robot.bendLeftArm()"}
+{"instruction": "wave and say hello", "output": "robot.wave(); robot.sayHello()"}
+{"instruction": "rotate right arm", "output": "robot.rotateRightArm()"}
+{"instruction": "rotate right arm", "output": "robot.rotateRightArm()"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "shake hands", "output": "robot.shakeHands()"}
+{"instruction": "say goodbye", "output": "robot.sayGoodbye()"}
+{"instruction": "sit down", "output": "robot.sit()"}
+{"instruction": "wave hello", "output": "robot.wave()"}
+{"instruction": "lift right leg", "output": "robot.liftRightLeg()"}
+{"instruction": "shake hands", "output": "robot.shakeHands()"}
+{"instruction": "walk forward 2 steps", "output": "robot.walkForward(steps=2)"}
+{"instruction": "tilt head left", "output": "robot.tiltHeadLeft()"}
+{"instruction": "wave twice", "output": "robot.wave(times=2)"}
+{"instruction": "bow", "output": "robot.bow()"}
+{"instruction": "bend your left arm", "output": "robot.bendLeftArm()"}
+{"instruction": "point right", "output": "robot.pointRight()"}
